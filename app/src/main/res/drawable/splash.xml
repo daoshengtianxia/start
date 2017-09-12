@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--&lt;!&ndash; 背景颜色 &ndash;&gt;-->
+    <!--<item android:drawable="@color/white" />-->
+
+    <item>
+        <!-- 此图片为应用启动图片 -->
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/bg" />
+    </item>
+</layer-list>
